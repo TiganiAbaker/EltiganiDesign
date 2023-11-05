@@ -3,7 +3,7 @@ body{
 }
 
 /* === Start Navbar === */
-#navigation {
+.navbar {
   position: fixed;
   left: 0;
   right: 0;
@@ -11,9 +11,7 @@ body{
   border: 3px solid #343a40;
 }
 
-.navbar {
 
-}
 .nav-link {
   color: white;
 }
